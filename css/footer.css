@@ -5,7 +5,7 @@
 
 .footer-container {
   display: flex;
-  align-items: flex-start;
+  align-items: baseline;
 }
 
 .footer-info {
@@ -86,7 +86,7 @@
   color: #ffffff;
 }
 
-.subcribe-form {
+.subscribe-form {
   display: flex;
   gap: 24px;
 }
@@ -97,7 +97,7 @@
   border: 1px solid #ffffff;
   background-color: transparent;
   font-size: 12px;
-  line-height: 2;
+  line-height: 1.17;
   letter-spacing: 0.04em;
   padding-left: 16px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
@@ -112,10 +112,10 @@
 }
 
 .subscribe-input:focus {
-  border-color: #4d5ae5;
+  border-color: #31d0aa;
 }
 
-.subcribe-btn {
+.subscribe-btn {
   min-width: 165px;
   height: 40px;
   display: flex;
@@ -134,7 +134,7 @@
 
 .subcribe-btn:hover,
 .subcribe-btn:focus {
-  background-color: #404bbf;
+  background-color: #31d0aa;
 }
 
 .subcribe-icon {
