@@ -142,6 +142,10 @@
     </defs>
 </symbol>
 
+<symbol id="check" viewBox="0 0 10 8" fill="none">
+    <path d="M8.41467 0.366699L3.58134 5.20003L1.58134 3.20003L0.638672 4.1427L3.58134 7.08537L9.35734 1.30937L8.41467 0.366699Z" fill="currentColor"/>
+</symbol>
+
 <symbol id="twitter" viewBox="0 0 16 16" fill="none">
     <path fill="currentColor" d="M12.6 0.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H0.316l5.733-6.57L0 0.75h5.063l3.495 4.633zM11.74 13.778h1.36L4.323 2.145H2.865z" />
     <defs>
